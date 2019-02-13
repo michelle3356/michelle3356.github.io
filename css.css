@@ -1,0 +1,60 @@
+body {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+.profile {
+  width: 200px;
+}
+
+.header {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.name {
+  font-size: 30px;
+}
+
+.social-links {
+  padding: 0;
+}
+
+.social-links li {
+  display: inline;
+  margin: 0 5px;
+}
+
+.social-links li a {
+  color: #000;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.menu-link {
+  color: #000;
+}
+
+.menu-link:hover {
+  background-color: #ccc;
+}
+
+.menu-link:before {
+  content: attr(data-en);
+}
+
+.menu-link:hover:before{
+  content: attr(data-zh);
+}
+
+.workexperience .title {
+  font-size: 22px;
+}
+
+.workexperience li {
+  line-height: 30px;
+}
+
+.box {
+  height: 200px;
+  border: 1px solid #ccc;
+}
