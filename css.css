@@ -30,19 +30,19 @@ body {
   text-decoration: none;
 }
 
-.menu-link {
+.maxim-link {
   color: #000;
 }
 
-.menu-link:hover {
+.maxim-link:hover {
   background-color: #ccc;
 }
 
-.menu-link:before {
+.maxim-link:before {
   content: attr(data-en);
 }
 
-.menu-link:hover:before{
+.maxim-link:hover:before{
   content: attr(data-zh);
 }
 
