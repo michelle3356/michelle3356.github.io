@@ -54,13 +54,21 @@ body {
   line-height: 30px;
 }
 
+.degree {
+  margin-top: 40px;
+}
+
+.skills {
+  margin-top: 40px;
+}
+
 .box {
   height: 150px;
   border: 1px solid #ccc;
 }
 
-.other h2{
-  margin-top: 10px;
+.other {
+  margin-top: 40px;
 }
 
 .other li{
@@ -68,5 +76,6 @@ body {
 }
 
 .autobiography{
+    margin-top: 40px;
   line-height: 30px;
 }
