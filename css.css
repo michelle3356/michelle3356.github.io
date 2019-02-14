@@ -55,6 +55,14 @@ body {
 }
 
 .box {
-  height: 200px;
+  height: 150px;
   border: 1px solid #ccc;
+}
+
+.other h2{
+  margin-top: 10px;
+}
+
+.other li{
+  line-height: 30px;
 }
