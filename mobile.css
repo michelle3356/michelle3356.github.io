@@ -1,0 +1,10 @@
+.box {
+  display: block;
+  width: 100%;
+}
+.aaa {
+  background-color: #fcc;
+}
+.bbb {
+  background-color: lightyellow;
+}

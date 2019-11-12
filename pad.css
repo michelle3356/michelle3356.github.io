@@ -1,0 +1,11 @@
+.box {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+.aaa {
+  background-color: red;
+}
+.bbb {
+  background-color: #ff0;
+}
